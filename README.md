@@ -6,3 +6,5 @@ Uses JDK 17
 
 Run with:
 `./gradlew bootrun`
+
+Checkout the [Angular Tutorial](ANGULAR_TUTORIAL.md) for a small walkthrough of the example we will create
