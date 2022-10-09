@@ -26,9 +26,9 @@
 
 ## Tutorial
 
-Check out the Angular Tour of Heroes tutorial after this, as it is has much more to go over
+Check out the [Angular Tour of Heroes tutorial](https://angular.io/tutorial) after this, as it is has much more to go over
 
-- https://angular.io/tutorial
+- Note: I advise that you use reactive forms instead of the template-driven forms that the tutorial uses
 
 ### 1. Create new application
 
