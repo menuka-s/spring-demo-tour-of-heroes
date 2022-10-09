@@ -121,7 +121,7 @@ constructor(
 ){}
 
 buildForm(): void {
-    profileForm = this._fb.group({
+    heroForm = this._fb.group({
         name: new FormControl(''),
     });
 }
